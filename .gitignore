@@ -1,0 +1,5 @@
+# Yeah, you're not getting my web server configs just yet :P
+conf/
+# Ignore my little test server, as that's not required
+miniServ.js
+*.bat
