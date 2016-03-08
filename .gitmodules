@@ -1,3 +1,6 @@
 [submodule "repo"]
 	path = repo
 	url = https://github.com/SecretOnline/NMS-Info
+[submodule "countdown"]
+	path = countdown
+	url = https://github.com/SecretOnline/NMS-Countdown
