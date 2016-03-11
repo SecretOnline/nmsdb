@@ -1,0 +1,8 @@
+/* Rights to this font belong to Hello Games and original authors of GeoSans Light.
+ * I'm simply rehosting it to prevent flooding their server.
+ */
+/* See the question mark in the first URL? That's because IE */
+@font-face {
+  font-family: 'geosanslight-nmsregular';
+  src: url('https://static.nmsdb.info/fonts/geonms-webfont.eot?') format('eot'), url('https://static.nmsdb.info/fonts/geonms-webfont.woff') format('woff'), url('https://static.nmsdb.info/fonts/geonms-webfont.ttf') format('truetype'), url('https://static.nmsdb.info/fonts/geonms-webfont.svg') format('svg');
+}
