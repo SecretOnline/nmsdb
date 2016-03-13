@@ -16,6 +16,7 @@ body {
   overflow-x: hidden;
   background-color: #306E6D;
   color: #fff;
+  min-height: 100vh;
 }
 .center {
   display: block;
